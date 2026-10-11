@@ -23,7 +23,7 @@ A bakery e-commerce project built with **Java 17, Spring Boot 3.4, Spring Data J
 From the project root:
 
 ```bash
-docker compose up -d mysql
+install MySQL and start it 
 ```
 
 This starts MySQL on `localhost:3306`, creates database `crumb_co_bakery`, and configures the demo root password `root123`. These credentials are for a local college demo only; do not use them in production.
