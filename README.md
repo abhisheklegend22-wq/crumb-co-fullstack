@@ -181,6 +181,5 @@ This is a local college project, not a production payment platform. It does not 
 
 ## Project Security Notes
 - Keep database credentials in environment variables.
-- Do not expose the admin panel without authentication.
 - Validate requests before displaying order information.
 - Keep sensitive configuration files out of version control.
