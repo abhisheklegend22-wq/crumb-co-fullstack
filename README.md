@@ -178,3 +178,9 @@ The client sends only product IDs and quantities. The server retrieves prices fr
 
 ## Important demo note
 This is a local college project, not a production payment platform. It does not collect online payments. The demo admin panel and order-list endpoint are unauthenticated for presentation convenience. Do not expose it publicly without authentication/authorization, secure secrets, rate limiting, privacy controls, schema migrations, and database locking appropriate to multiple app instances.
+
+## Project Security Notes
+- Keep database credentials in environment variables.
+- Do not expose the admin panel without authentication.
+- Validate requests before displaying order information.
+- Keep sensitive configuration files out of version control.
