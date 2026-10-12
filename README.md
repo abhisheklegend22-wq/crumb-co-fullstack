@@ -183,3 +183,11 @@ This is a local college project, not a production payment platform. It does not 
 - Keep database credentials in environment variables.
 - Validate requests before displaying order information.
 - Keep sensitive configuration files out of version control.
+
+## Future Improvements
+- Enhance user interface and user experience.
+- Add more features based on user requirements.
+- Strengthen security and input validation.
+- Do not expose the admin panel without authentication.
+  
+  
