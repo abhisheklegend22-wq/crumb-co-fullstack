@@ -18,7 +18,7 @@ A bakery e-commerce project with an **Angular 19 web storefront**, **Java 17 / S
 - JDK 17+
 - Maven 3.9+
 - Node.js 20+ and npm
-- Docker Desktop (easiest) or MySQL 8+
+- Docker Desktop (easiest) or MySQL 8+ 
 
 ## 1. Start MySQL
 From the project root:
